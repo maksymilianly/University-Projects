@@ -1,0 +1,149 @@
+Narzedzia Kamienne;-2500000;Podstawowa;9.5;ROOT;Podstawowe instrumenty ulatwiajace prace manualna
+Ogien;-1000000;Podstawowa;10;ROOT;Zrodlo ciepla i swiatla oraz ochrony przed zwierzetami
+Ubrania;-100000;Przetrwane;7;Ogien;Ochrona ciala przed warunkami atmosferycznymi
+Wedkarstwo;-40000;Zywnosc;6;Narzedzia Kamienne;Metoda pozyskiwania pozywienia z wod
+Rolnictwo;-10000;Zywnosc;10;Narzedzia Kamienne;Uprawa ziemi i hodowla zwierzat dla zywnosci
+Domestykacja;-9000;Zywnosc;8.5;Rolnictwo;Proces udomowienia dzikich zwierzat
+Irygacja;-6000;Inzynieria;7.5;Rolnictwo;System sztucznego nawadniania pol uprawnych
+Ziololecznictwo;-5000;Medycyna;6;Rolnictwo;Wykorzystanie roslin do leczenia chorob
+Ceramika;-29000;Produkcja;6.5;Ogien;Wytwarzanie naczyn i przedmiotow z wypalonej gliny
+Pismo;-3500;Nauka;10;Ceramika;System znakow sluzacy do utrwalania mowy
+Matematyka;-3000;Nauka;10;Pismo;Nauka o liczbach ksztaltach i wielkosciach
+Astronomia;-2500;Nauka;8;Matematyka;Nauka badajaca ciala niebieskie i kosmos
+Kalendarz;-2000;Nauka;7;Astronomia;System rachuby czasu oparty na cyklach przyrody
+Pismo Klinowe;-3200;Nauka;7;Pismo;Najstarsze pismo stworzone przez Sumerow na glinie
+Alfabet;-1500;Nauka;8.5;Pismo;Zestaw liter sluzacy do zapisu glosek jezyka
+Papier;105;Komunikacja;9;Pismo;Cienki material pisarski wytwarzany z wlokien
+Szyfrowanie Cezara;-50;Bezpieczenstwo;6;Matematyka;Sztuka utajniania wiadomosci przed niepowolanymi
+Zero;600;Nauka;9.5;Matematyka;Pojecie matematyczne oznaczajace brak wartosci
+Algebra;820;Nauka;9;Matematyka;Dzial matematyki uzywajacy symboli w miejsce liczb
+Rachunek Rozniczkowy;1687;Nauka;9.5;Matematyka;Dzial matematyki badajacy zmiennosc funkcji
+Teoria Wzglednosci;1905;Nauka;10;Matematyka;Teoria fizyczna opisujaca czas i przestrzen
+Enigma;1918;Bezpieczenstwo;8.5;Matematyka;Niemiecka maszyna szyfrujaca z II wojny swiatowej
+RSA Szyfrowanie;1977;Bezpieczenstwo;9;Matematyka;Algorytm szyfrowania asymetrycznego kluczem publicznym
+Metalurgia;-4500;Produkcja;9;Ogien;Nauka i technika obrobki metali
+Miedz;-4500;Material;7;Metalurgia;Czerwonawy metal swietnie przewodzacy prad
+Bronz;-3300;Material;7.5;Metalurgia;Stop miedzi i cyny twardszy od czystej miedzi
+Zelazo;-1200;Material;8.5;Metalurgia;Powszechny metal o duzym znaczeniu przemyslowym
+Stal;-500;Material;9;Zelazo;Stop zelaza z weglem o bardzo wysokiej wytrzymalosci
+Magnes;-600;Fizyka;6.5;Metalurgia;Cialo wytwarzajace stale pole magnetyczne
+Kompas;1100;Nawigacja;8.5;Magnes;Przyrzad nawigacyjny wskazujacy kierunek polnocny
+Sekstant;1731;Nawigacja;7;Kompas;Przyrzad do mierzenia katow w nawigacji morskiej
+Chirurgia;-2500;Medycyna;7.5;Narzedzia Kamienne;Inwazyjna metoda leczenia polegajaca na operacjach
+Prowizoryczne Protezy;-2000;Medycyna;5;Narzedzia Kamienne;Podstawowe zabiegi ratujace zycie w naglych wypadkach
+Kolo;-3500;Transport;10;Narzedzia Kamienne;Element obrotowy umozliwiajacy latwy transport
+Woz Konny;-1800;Transport;7;Kolo;Pojazd kolowy ciagniety przez zwierzeta pociagowe
+Rydwan;-1500;Militaria;7.5;Woz Konny;Lekki dwukolowy pojazd bojowy starozytnosci
+Mlyn Wodny;-200;Energetyka;7.5;Kolo;Mechanizm wykorzystujacy energie nurtu rzeki
+Mlyn Wietrzny;600;Energetyka;7;Mlyn Wodny;Mechanizm zamieniajacy sile wiatru na prace
+TurbinaWiatrowa;1887;Energetyka;7.5;Mlyn Wietrzny;Zaawansowany silnik wiatrowy do produkcji pradu
+Maszyna Prosta;-300;Mechanika;7.5;Zelazo;Silnik napedzany rozprezajaca sie para wodna
+Zegarek Mechaniczny;1275;Uzytkowa;7.5;Maszyna Prosta;Mechaniczne urzadzenie do precyzyjnego pomiaru czasu
+Soczewka;1280;Nauka;8;Maszyna Prosta;Oszlifowane szklo skupiajace lub rozpraszajace swiatlo
+Prasa Drukarska;1440;Komunikacja;10;Maszyna Prosta;Maszyna umozliwiajaca masowe powielanie tekstu
+Mikroskop;1590;Nauka;8;Maszyna Prosta;Przyrzad optyczny do obserwacji mikroorganizmow
+Elektrycznosc;1800;Fizyka;10;Maszyna Prosta;Zjawisko fizyczne zwiazane z przeplywem ladunkow
+Teleskop;1608;Astronomia;8.5;Soczewka;Przyrzad optyczny do obserwacji odleglych obiektow
+Termometr;1714;Nauka;7;Mikroskop;Przyrzad sluzacy do pomiaru temperatury
+Stetoskop;1816;Medycyna;6.5;Mikroskop;Instrument medyczny do osluchiwania pacjenta
+Bakteriologia;1870;Medycyna;9;Mikroskop;Dziedzina biologii zajmujaca sie badaniem bakterii
+Gazeta;1605;Media;6.5;Prasa Drukarska;Cykliczne wydawnictwo zawierajace informacje biezace
+Maszyna do pisania;1867;Biurowe;5.5;Prasa Drukarska;Urzadzenie mechaniczne do pisania tekstu czcionkami
+Beton;1849;Budownictwo;8;Stal;Material budowlany powstajacy z cementu i kruszywa
+Wiezowiec;1884;Budownictwo;7;Beton;Wielokondygnacyjny budynek o duzej wysokosci
+Dynamit;1867;Militaria;8;Stal;Material wybuchowy wynaleziony przez Alfreda Nobla
+Plastik;1907;Material;8.5;Stal;Syntetyczne tworzywo sztuczne o wszechstronnym zastosowaniu
+Teflon;1938;Uzytkowa;6.5;Stal;Polimer odporny na wysokie temperatury i przywieranie
+Kevlar;1965;Material;7.5;Stal;Wlokno syntetyczne o bardzo wysokiej wytrzymalosci na rozciaganie
+Silnik;1712;Energetyka;10;Stal;Urzadzenie zamieniajace dowolna energie na prace mechaniczna
+Silnik Parowy;1712;Naped;9.5;Silnik;Pierwszy silnik cieplny napedzany para wodna
+Lampa Naftowa;1853;Uzytkowa;6;Silnik;Lampa spalajaca nafte dajaca jasne swiatlo
+Silnik Spalinowy;1876;Naped;9.5;Silnik;Silnik wykorzystujacy energie wybuchowego spalania paliwa
+Odkurzacz;1901;Uzytkowa;5.5;Silnik;Urzadzenie elektryczne zasysajace kurz i brud
+Silnik Odrzutowy;1937;Naped;8.5;Silnik;Silnik wytwarzajacy ciag poprzez wyrzut gazow
+Lokomotywa;1804;Transport;9;Silnik Parowy;Pojazd szynowy z napedem ciagnacy wagony
+Statek Parowy;1807;Transport;8;Silnik Parowy;Statek napedzany maszyna parowa lub turbina
+Samochod;1885;Transport;9;Silnik Spalinowy;Pojazd silnikowy sluzacy do transportu drogowego
+Traktor;1892;Rolnictwo;8;Silnik Spalinowy;Pojazd rolniczy o duzej sile uciagu
+Samolot;1903;Transport;9;Silnik Spalinowy;Statek powietrzny ciezszy od powietrza z napedem
+SyntetycznePaliwa;1925;Energetyka;7;Silnik Spalinowy;Paliwo plynne uzyskane w procesie chemicznym
+Rakieta;1942;Kosmos;8.5;Silnik Odrzutowy;Pojazd napedzany silnikiem odrzutowym zdolny do lotu w kosmosie
+Dron;2006;Militaria;7.5;Samolot;Bezzalogowy statek latajacy sterowany zdalnie
+Satelita;1957;Komunikacja;9;Rakieta;Sztuczny obiekt umieszczony na orbicie ciala niebieskiego
+Ladowanie na Ksiezycu;1969;Kosmos;10;Rakieta;Pierwsze postawienie stopy czlowieka na innym globie
+Prom Kosmiczny;1981;Kosmos;8.5;Rakieta;Wielorazowy statek kosmiczny zdolny do ladowania na Ziemi
+GPS;1973;Nawigacja;9.5;Satelita;Globalny system nawigacji satelitarnej
+Lazik Marsjanski;1997;Kosmos;8;Satelita;Zdalnie sterowany pojazd badajacy powierzchnie innej planety
+ISS Stacja Kosmiczna;1998;Kosmos;9;Satelita;Miedzynarodowa zalogowa stacja badawcza na orbicie
+Starlink;2019;Internet;8;Satelita;Konstelacja satelitow zapewniajaca globalny dostep do internetu
+Lodowka;1834;Zywnosc;7.5;Elektrycznosc;Urzadzenie chlodnicze do przechowywania zywnosci
+Telegraf;1837;Komunikacja;8.5;Elektrycznosc;Urzadzenie do przesylania wiadomosci tekstowych na odleglosc
+Telefon;1876;Komunikacja;9.5;Telegraf;Urzadzenie do przesylania glosu na duza odleglosc
+Zarowka;1879;Uzytkowa;8;Elektrycznosc;Elektryczne zrodlo swiatla wykorzystujace rozgrzany zarnik
+Polprzewodniki;1901;Fizyka;10;Elektrycznosc;Material o zmiennym przewodnictwie pradu elektrycznego
+Elektronika;1904;Fizyka;10;Elektrycznosc;Dziedzina techniki zajmujaca sie obwodami i sygnalami
+Defibrylator;1947;Medycyna;7.5;Elektrycznosc;Urzadzenie przywracajace akcje serca impulsem elektrycznym
+Fotowoltaika;1954;Energetyka;8;Elektrycznosc;Przetwarzanie swiatla slonecznego na energie elektryczna
+AkumulatorLiIon;1991;Energetyka;9;Elektrycznosc;Ogniwo pozwalajace na wielokrotne magazynowanie energii
+Radio;1895;Komunikacja;9;Telefon;Bezprzewodowe przesylanie dzwieku za pomoca fal
+Telewizja;1927;Media;8.5;Radio;Przesylanie ruchomego obrazu i dzwieku na odleglosc
+Radar;1935;Militaria;8.5;Radio;System lokalizacji obiektow za pomoca fal radiowych
+Satelita TV;1962;Media;7.5;Telewizja;Satelita transmitujacy sygnal telewizyjny na Ziemie
+Kuchenka Mikrofalowa;1945;Uzytkowa;7;Radar;Urzadzenie podgrzewajace potrawy falami elektromagnetycznymi
+Kino;1895;Media;7.5;Zarowka;Technika wyswietlania ruchomych obrazow na ekranie
+Tranzystor;1947;Podzespol;10;Elektronika;Element elektroniczny wzmacniajacy sygnal elektryczny
+Mechanika Kwantowa;1925;Nauka;10;Elektronika;Teoria fizyczna opisujaca zachowanie czastek atomowych
+Atom;1945;Energetyka;9.5;Elektronika;Wykorzystanie rozszczepienia jadra atomowego do produkcji energii
+Laser;1960;Fizyka;8.5;Elektronika;Urzadzenie emitujace spojna i skupiona wiazke swiatla
+DiodaLED;1962;Elektronika;8;Elektronika;Polprzewodnikowe zrodlo swiatla o wysokiej wydajnosci
+PromienieX;1895;Medycyna;8.5;Elektronika;Promieniowanie przenikajace materie uzywane w diagnostyce
+Rozrusznik Serca;1958;Medycyna;7;Elektronika;Wszczepiane urzadzenie elektryczne stymulujace rytm serca
+Sztuczne Serce;1982;Medycyna;7.5;Elektronika;Urzadzenie mechaniczne zastepujace prace biologicznego serca
+Protezy Bioniczne;2000;Medycyna;8.5;Elektronika;Konczyny sterowane impulsami nerwowymi z mozgu
+ARPANET;1969;Sieci;9;Elektronika;Wojskowa siec komputerowa bedaca przodkiem internetu
+Nanotechnologia;1981;Nauka;8.5;Elektronika;Manipulacja materia na poziomie atomow i czasteczek
+Mikroprocesor;1971;Podzespol;10;Tranzystor;Uklad scalony wykonujacy operacje obliczeniowe komputera
+AI;1956;IT;10;Tranzystor;Systemy komputerowe symulujace ludzka inteligencje
+FuzjaJadrowa;1952;Energetyka;10;Atom;Laczenie lekkich jader atomowych uwalniajace energie
+ElektrowniaJadrowa;1954;Energetyka;8.5;Atom;Zaklad przemyslowy wytwarzajacy prad z rozszczepienia atomu
+MRI;1973;Medycyna;8.5;Atom;Obrazowanie medyczne wykorzystujace silne pole magnetyczne
+Bomba Atomowa;1945;Militaria;10;Atom;Bron masowego razenia wykorzystujaca energie jadrowa
+Swiatlowod;1970;Komunikacja;9;Laser;Przewod transmitujacy dane za pomoca impulsu swietlnego
+NapedCD;1982;Media;6.5;Laser;Urzadzenie do odczytu danych z dyskow optycznych
+Tomografia_CT;1971;Medycyna;8;PromienieX;Badanie radiologiczne dajace trojwymiarowy obraz narzadow
+Grafen;2004;Material;8;Nanotechnologia;Struktura wegla o grubosci jednego atomu i wielkiej twardosci
+Email;1971;Komunikacja;8.5;ARPANET;System przesylania wiadomosci tekstowych przez siec
+PC;1975;IT;9.5;Mikroprocesor;Komputer przeznaczony do uzytku osobistego w domu
+KwantowyKomputer;1998;IT;9;Mikroprocesor;Komputer wykorzystujacy zjawiska mechaniki kwantowej
+DeepLearning;2012;IT;9;AI;Uczenie maszynowe oparte na sieciach neuronowych
+AutoAutonomiczne;2010;Transport;8;AI;Pojazd poruszajacy sie bez udzialu kierowcy
+LLM_ChatGPT;2022;IT;9.5;AI;Model jezykowy generujacy tekst zblizony do ludzkiego
+Internet;1983;Sieci;10;PC;Globalna siec laczaca komputery na calym swiecie
+Drukarka3D;1984;Produkcja;7.5;PC;Urzadzenie tworzace fizyczne obiekty z modelu cyfrowego
+VR_RzeczywistoscWirtualna;1968;Media;7;PC;Technologia kreujaca cyfrowy i interaktywny swiat 3D
+Antywirus;1987;Bezpieczenstwo;7.5;PC;Oprogramowanie wykrywajace i usuwajace szkodliwy kod
+WWW;1990;Sieci;9;Internet;System stron internetowych polaczonych hiperlaczami
+E-Commerce;1994;Finanse;8.5;Internet;Handel towarami i uslugami przez internet
+SocialMedia;2004;Media;8;Internet;Platformy do wymiany tresci i nawiazywania kontaktow
+Chmura;2006;IT;9;Internet;Przechowywanie danych i uslug na zdalnych serwerach
+Smartfon;2007;Komunikacja;9.5;Internet;Telefon komorkowy z systemem operacyjnym i dostepem do sieci
+Blockchain;2008;Finanse;7.5;Internet;Rozproszona baza danych sluzaca do zapisu transakcji
+Firewall;1988;Bezpieczenstwo;8;Internet;System zabezpieczajacy siec przed niepowolanym dostepem
+Streaming;2005;Media;8.5;Internet;Przesylanie multimediow w czasie rzeczywistym bez pobierania
+Uber;2009;Transport;7;Smartfon;Platforma laczaca kierowcow z pasazerami przez aplikacje
+Instagram;2010;Media;6.5;Smartfon;Serwis spolecznosciowy oparty na udostepnianiu zdjec
+TikTok;2016;Media;6;Smartfon;Platforma do tworzenia i udostepniania krotkich filmow
+Bitcoin;2009;Finanse;8;Blockchain;Cyfrowa waluta kryptograficzna dzialajaca bez banku
+Konserwacja Zywnosci;1810;Zywnosc;7;Rolnictwo;Metody przedluzania trwalosci zywnosci przed zepsuciem
+NawozySztuczne;1909;Rolnictwo;9;Rolnictwo;Substancje chemiczne wzbogacajace glebe i rosliny
+Znieczulenie;1846;Medycyna;8.5;Bakteriologia;Eliminacja bolu podczas zabiegow medycznych
+Pasteryzacja;1862;Spozywcza;7.5;Bakteriologia;Ogrzewanie zywnosci w celu zniszczenia drobnoustrojow
+Aspiryna;1897;Medycyna;7.5;Bakteriologia;Popularny lek przeciwbolowy i przeciwzapalny
+Insulina;1921;Medycyna;8;Bakteriologia;Hormon regulujacy poziom cukru we krwi leczacy cukrzyce
+Penicylina;1928;Medycyna;10;Bakteriologia;Pierwszy odkryty antybiotyk zwalczajacy bakterie
+DNA;1953;Nauka;10;Bakteriologia;Kwas nukleinowy bedacy nosnikiem informacji genetycznej
+Antybiotyki;1940;Medycyna;9.5;Penicylina;Leki stosowane do leczenia zakazen bakteryjnych
+InzynieriaGenetyczna;1973;Biotechnologia;9;DNA;Modyfikacja genomu organizmow w celu zmiany ich cech
+Genom;2003;Nauka;8.5;DNA;Kompletny zestaw informacji genetycznej organizmu
+CRISPR;2012;Biotechnologia;9.5;InzynieriaGenetyczna;Precyzyjna metoda edycji genow i naprawy DNA
+Szczepionki_mRNA;2020;Medycyna;9;InzynieriaGenetyczna;Nowoczesny preparat wywolujacy odpornosc wirusowa

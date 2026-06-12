@@ -1,0 +1,49 @@
+Boleslaw II Rogatka;1241-1278;Piastowie;0;Henryk II Pobozny
+Henryk III Bialy;1248-1266;Piastowie;0;Henryk II Pobozny
+Wladyslaw Opolski;1246-1281;Piastowie;0;Mieszko I Platonogi
+Henryk IV Probus;1288-1290;Piastowie;1;Henryk III Bialy
+Odon Mieszkowic;1179-1194;Piastowie;0;Mieszko III Stary
+Wladyslaw Odonic;1229-1239;Piastowie;0;Odon Mieszkowic
+AA;1500;Piastowie;1;NIKT
+Przemysl I;1241-1257;Piastowie;0;Wladyslaw Odonic
+Boleslaw Pobozny;1239-1279;Piastowie;0;Wladyslaw Odonic
+Przemysl II;1295-1296;Piastowie;1;Przemysl I
+Leszek Bialy;1194-1227;Piastowie;1;Kazimierz II Sprawiedliwy
+Konrad I Mazowiecki;1200-1247;Piastowie;0;Kazimierz II Sprawiedliwy
+Boleslaw V Wstydliwy;1243-1279;Piastowie;1;Leszek Bialy
+Kazimierz I Kujawski;1233-1267;Piastowie;0;Konrad I Mazowiecki
+Siemowit I Mazowiecki;1248-1262;Piastowie;0;Konrad I Mazowiecki
+Leszek Czarny;1279-1288;Piastowie;1;Kazimierz I Kujawski
+Ziemomysl Inowroclawski;1267-1287;Piastowie;0;Kazimierz I Kujawski
+Wladyslaw I Lokietek;1306-1333;Piastowie;1;Kazimierz I Kujawski
+Kazimierz II Leczycki;1267-1294;Piastowie;0;Kazimierz I Kujawski
+Siemowit Dobrzynski;1267-1312;Piastowie;0;Kazimierz I Kujawski
+Kazimierz III Wielki;1333-1370;Piastowie;1;Wladyslaw I Lokietek
+Piast Kolodziej;860-890;Legenda (Piastowie);1;ROOT
+Siemowit;890-920;Legenda (Piastowie);1;Piast Kolodziej
+Lestek;920-950;Legenda (Piastowie);1;Siemowit
+Siemomysl;950-960;Legenda (Piastowie);1;Lestek
+Czcibor;960-972;Piastowie;0;Siemomysl
+Mieszko I;960-992;Piastowie;1;Siemomysl
+Nieznany Brat;960-965;Piastowie;0;Siemomysl
+Boleslaw Chrobry;992-1025;Piastowie;1;Mieszko I
+Swietopelk;980-991;Piastowie;0;Mieszko I
+Mieszko Mieszkowic;992-995;Piastowie;0;Mieszko I
+Mieszko II Lambert;1025-1034;Piastowie;1;Boleslaw Chrobry
+Bezprym;1031-1032;Piastowie;1;Boleslaw Chrobry
+Otto Boleslawowic;1031-1033;Piastowie;0;Boleslaw Chrobry
+Kazimierz I Odnowiciel;1034-1058;Piastowie;1;Mieszko II Lambert
+Boleslaw II Szczodry;1058-1079;Piastowie;1;Kazimierz I Odnowiciel
+Wladyslaw I Herman;1079-1102;Piastowie;1;Kazimierz I Odnowiciel
+Mieszko Kazimierzowic;1058-1065;Piastowie;0;Kazimierz I Odnowiciel
+Zbigniew;1102-1107;Piastowie;1;Wladyslaw I Herman
+Boleslaw III Krzywousty;1102-1138;Piastowie;1;Wladyslaw I Herman
+Wladyslaw II Wygnaniec;1138-1146;Piastowie;1;Boleslaw III Krzywousty
+Boleslaw IV Kedzierzawy;1146-1173;Piastowie;1;Boleslaw III Krzywousty
+Mieszko III Stary;1173-1202;Piastowie;1;Boleslaw III Krzywousty
+Henryk Sandomierski;1146-1166;Piastowie;0;Boleslaw III Krzywousty
+Kazimierz II Sprawiedliwy;1177-1194;Piastowie;1;Boleslaw III Krzywousty
+Boleslaw I Wysoki;1163-1201;Piastowie;0;Wladyslaw II Wygnaniec
+Mieszko I Platonogi;1163-1211;Piastowie;0;Wladyslaw II Wygnaniec
+Henryk I Brodaty;1201-1238;Piastowie;1;Boleslaw I Wysoki
+Henryk II Pobozny;1238-1241;Piastowie;1;Henryk I Brodaty
