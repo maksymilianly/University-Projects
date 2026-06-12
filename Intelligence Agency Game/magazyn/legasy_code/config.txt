@@ -1,0 +1,70 @@
+# Nazwa                         PosX    PosY    ScaleX  ScaleY  OriginX OriginY Layer
+SPRITE radar_bg                 0.0     0.0     1.0     1.0     0.0     0.0     0
+SPRITE radar_doors_closed       1303.06 181.538 1.0     1.0     0.0     0.0    -1
+SPRITE radar_doors_open         1301.833 178.156 1.0     1.0     0.0     0.0    -1
+SPRITE radar_table              660.0   1080.0  1.0     1.0     0.5     0.5     2
+SPRITE radar_off                660.0   750.0   1.0     1.0     0.5     0.5     -1
+SPRITE radar_ekran0             660.0   750.0   1.0     1.0     0.5     0.5     -1
+SPRITE radar_ekran1             660.0   750.0   1.0     1.0     0.5     0.5     -1
+SPRITE radar_ekran2		660.0   750.0   1.0     1.0     0.5     0.5     -1
+SPRITE radar_zoomed		0.0 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE radar_zoomed_bounds	0.0 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE radar_button_onoff       970.0  998.2  1.0     1.0     0.5     0.5     -1
+SPRITE radar_button_zoom        972.7  962.5  1.0     1.0     0.5     0.5     -1
+# SPRITE radar_radar            540.0   900.0   1.0     1.0     0.5     0.5     -1
+SPRITE radar_odbiornik          660.0   660.0   1.0     1.0     0.5     0.5     -1
+SPRITE radar_odbiornik_pole     660.0   660.0   1.0     1.0     0.5     0.5    -1
+SPRITE radar_projector          595.0   836.0   1.0     1.0     0.5     0.5    -1
+SPRITE radar_plane              0.0     0.0     0.06    0.06    0.5     0.5    -1
+SPRITE radar_ship	        0.0     0.0     0.18    0.18    0.5     0.5    -1
+SPRITE radar_checkmark          0.0     0.0     1.0     1.0     0.5     0.5    -1
+SPRITE radar_xmark              0.0     0.0     1.0     1.0     0.5     0.5    -1 
+LOGIC radar_radius 128.0
+LOGIC radar_posX 593.7
+LOGIC radar_posY 780.3
+LOGIC radar_zradius 628.0
+LOGIC radar_zposX 801.0
+LOGIC radar_zposY 542.0
+LOGIC radar_projektor_rotation 120.0
+LOGIC radar_odbiornik_rotation 120.0
+LOGIC radar_odbiornik_sector 9.0
+LOGIC radar_friendly_payment 1
+LOGIC radar_hostile_payment 10
+LOGIC radar_zoomScale 4.90625
+LOGIC radar_unzoomScale 0.20382
+
+SPRITE stuff_bg 0.0 0.0 1.0 1.0 0.0 0.0 0
+SPRITE stuff_szyfry_bg 0.0 920.0 1.0 1.0 0.0 0.0
+SPRITE stuff_stol1 0.0 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE stuff_stol2 0.0 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE stuff_stol3 0.0 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE stuff_bounds1 0.0 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE stuff_bounds2 0.0 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE stuff_bounds3 0.0 0.0 1.0 1.0 0.0 0.0 -1
+
+SPRITE map_circle 0.0 0.0 1.0 1.0 0.5 0.5 -1
+SPRITE map_bg 0.0 0.0 1.0 1.0 0.0 0.0 0
+SPRITE map_countries 0.0 0.0 1.0 1.0 0.0 0.0 1
+SPRITE map_cnt_leftgermany 800.4 447.26 1.0 1.0 0.0 0.0 -1
+SPRITE map_cnt_rightgermany 903.13 455.87 1.0 1.0 0.0 0.0 -1
+SPRITE map_cnt_pl 1015.87 454.44 1.0 1.0 0.0 0.0 -1
+SPRITE map_cnt_fr 528.9 574.169 1.0 1.0 0.0 0.0 -1
+SPRITE map_cnt_gb 450.126  249.83 1.0 1.0 0.0 0.0 -1
+SPRITE map_cnt_it 823.45 717.19 1.0 1.0 0.0 0.0 -1
+SPRITE map_cnt_ussr 1158.037 0.0 1.0 1.0 0.0 0.0 -1
+SPRITE map_cnt_cz 966.80 580.23 1.0 1.0 0.0 0.0 -1
+
+
+SPRITE ui_shop_bg 230.0 135.0 1.0 1.0 0.0 0.0 -1
+SPRITE ui_shop_bounds 142 8.5 13.5 1.0     1.0     0.0     0.0 -1
+SPRITE ui_button_shop 20.0 70.0 1.0 1.0 0.0 0.0 
+SPRITE ui_button_workers 20.0 170.0 1.0 1.0 0.0 0.0 
+SPRITE ui_icon_agent 1431.5 17.9 1.0     1.0     0.0     0.0 -1
+SPRITE ui_icon_group 1431.5 17.9 1.0     1.0     0.0     0.0 -1
+SPRITE ui_widgetbutton 1533.0 18.0 1.0     1.0     0.0     0.0 -1
+#SPRITE ui_widgetbutton_no 1533.0 31.7 1.0     1.0     0.0     0.0 -1
+LOGIC ui_bank_posX 20.0
+LOGIC ui_bank_posY 20.0
+
+SPRITE szyfry_sheets 20.0 920.0 1.0 1.0 0.0 0.0
+SPRITE szyfry_panstwa 0.0 910.0 1.0 1.0 0.0 0.0

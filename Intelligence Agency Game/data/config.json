@@ -1,0 +1,332 @@
+{
+  "sprites": {
+    "radar_bg": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    },
+    "radar_doors_closed": {
+      "position": [1303.06, 181.538],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "radar_doors_open": {
+      "position": [1301.833, 178.156],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "radar_table": {
+      "position": [660.0, 1080.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": 2
+    },
+    "radar_off": {
+      "position": [660.0, 750.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_ekran0": {
+      "position": [660.0, 750.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_ekran1": {
+      "position": [660.0, 750.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_ekran2": {
+      "position": [660.0, 750.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_zoomed": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "radar_zoomed_bounds": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "radar_button_onoff": {
+      "position": [970.0, 998.2],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_button_zoom": {
+      "position": [972.7, 962.5],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_odbiornik": {
+      "position": [660.0, 660.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_odbiornik_pole": {
+      "position": [660.0, 660.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_projector": {
+      "position": [800.0, 545.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.5],
+      "layer": -1
+    },
+    "radar_plane": {
+      "position": [0.0, 0.0],
+      "scale": [0.06, 0.06],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_ship": {
+      "position": [0.0, 0.0],
+      "scale": [0.18, 0.18],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_checkmark": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "radar_xmark": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "target_catcher": {
+      "position": [400.0, 400.0],
+      "scale": [0.1, 0.1],
+      "origin": [0.5, 0.5],
+      "layer": -1
+    },
+    "target_radar_bounds": {
+      "position": [197.0, 35.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "stuff_bg": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    },
+    "stuff_szyfry_bg": {
+      "position": [0.0, 920.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    },
+    "stuff_stol1": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "stuff_stol2": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "stuff_stol3": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "stuff_bounds1": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "stuff_bounds2": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "stuff_bounds3": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_circle": {
+      "position": [0.0, 0.0],
+      "scale": [0.1, 0.1],
+      "origin": [1.0, 1.0],
+      "layer": -1
+    },
+    "map_bg": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    },
+    "map_countries": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 1
+    },
+    "map_cnt_leftgermany": {
+      "position": [800.4, 447.26],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_cnt_rightgermany": {
+      "position": [903.13, 455.87],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_cnt_pl": {
+      "position": [1015.87, 454.44],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_cnt_fr": {
+      "position": [528.9, 574.169],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_cnt_gb": {
+      "position": [450.126, 249.83],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_cnt_it": {
+      "position": [823.45, 717.19],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_cnt_ussr": {
+      "position": [1158.037, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "map_cnt_cz": {
+      "position": [966.80, 580.23],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "ui_shop_bg": {
+      "position": [240.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "ui_shop_bounds": {
+      "position": [142.0, 8.5],
+      "scale": [13.5, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "ui_button_shop": {
+      "position": [20.0, 70.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    },
+    "ui_button_workers": {
+      "position": [20.0, 170.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    },
+    "ui_icon_agent": {
+      "position": [1431.5, 17.9],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "ui_icon_group": {
+      "position": [1431.5, 17.9],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "ui_widgetbutton": {
+      "position": [1533.0, 18.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    "ui_info_panel": {
+      "position": [0.0, 0.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": -1
+    },
+    
+    "ui_mission_panel" :
+    {
+       "position": [1110.0,0.0],
+       "scale": [1.0,1.0],
+       "origin": [0.0,0.0],
+       "layer": -1
+    },
+    "szyfry_sheets": {
+      "position": [20.0, 920.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    },
+    "szyfry_panstwa": {
+      "position": [0.0, 910.0],
+      "scale": [1.0, 1.0],
+      "origin": [0.0, 0.0],
+      "layer": 0
+    }
+  },
+  "logic": {
+    "radar_radius": 128.0,
+    "radar_posX": 593.7,
+    "radar_posY": 780.3,
+    "radar_zradius": 628.0,
+    "radar_zposX": 801.0,
+    "radar_zposY": 542.0,
+    "radar_projektor_rotation": 120.0,
+    "radar_odbiornik_rotation": 120.0,
+    "radar_odbiornik_sector": 9.0,
+    "radar_friendly_payment": 1.0,
+    "radar_hostile_payment": 10.0,
+    "radar_zoomScale": 4.90625,
+    "radar_unzoomScale": 0.20382,
+    "radar_max_signals": 20,
+    "radar_spawn_time": 1.0,
+    "ui_bank_posX": 20.0,
+    "ui_bank_posY": 20.0,
+    "target_catcher_speed": 45.0
+  }
+}

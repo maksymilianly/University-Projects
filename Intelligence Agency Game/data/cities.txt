@@ -1,0 +1,59 @@
+# Cities współrzędne
+
+ussr
+Kyiv 1442.0 602.0 
+Minsk 1370.73 492.5 
+Vilnius 1304.5 461.37 
+Riga 1278.0 382.0 
+Tallin 1305.62 300.0 
+Leningrad 1431.54 284.0 
+Sevastopol 1516.2 796.29 
+Moscow 1626.0 423.2 
+Krasnodar 1658.5 779.25 
+Volgograd 1799.23 661.
+Kharkov 1596.0 631.62 
+Voronezh 1641.73 579.65 
+
+pl
+Gdansk 1133.67 469.52 
+Szczecin 1029.72 498.86 
+Poznan 1096.72 534.22 
+Warszawa 1196.6 546.95
+Wroclaw 1090.89 573.11
+Katowice 1154.88 607.76
+Gliwice 1148.16 606.76
+Krakow 1185.67 614.3
+Lodz 1147.75 562.0
+Lublin 1233.0 574.75
+
+cz
+Prague 1031.75 613.75
+Brno 1085.0 643.25
+Ostrawa 1125.0 624.25
+
+rightgermany
+Berlin 995.0 533.0
+
+leftgermany
+Berlin 995.0 533.0
+Munich 955.0 674.0
+Coln 833.0 570.0
+
+fr
+Paris 714.7 656.5
+Marseille 787.0 835.5
+Strasbourg 845.0 674.5
+
+it
+Milan 892.0 770.0
+Rome 974.75 888.0
+Naples 1024.0 923.0
+
+gb
+London 650.0 565.0
+Birmingham 601.0 526.0
+Liverpool 575.0 500.0
+
+
+
+
