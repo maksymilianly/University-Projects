@@ -1,11 +1,12 @@
 #include "UIVisual.h"
 #include <regex>
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
 #include "GameState.h"
 
-
+import AssetsMod;
+import ConfigMod;
 
 UIVisual::UIVisual(Assets& assets, Config& config, GameState& state) : Visual(assets, config, "ui_")
 , kontoText(assets.mainFont)

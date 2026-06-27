@@ -1,9 +1,11 @@
 #include "MisjaManager.h"
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
 #include "GameState.h"
 
+import AssetsMod;
+import ConfigMod;
 
 
 MisjaManager::MisjaManager(Assets& _assets, Config& _config, GameState& _state) : visual(_assets, _config), logika(), assets(_assets), config(_config), state(_state)
@@ -50,6 +52,7 @@ void MisjaManager::obslugaDanych() {
             Country kraj = static_cast<Country>(misja);
             std::string krajStr = countryToString(kraj);
             std::string miasto = logika.randomMiasto(checkCities(krajStr));
+
             state.addMisja(miasto, kraj, config.citiesCoords[krajStr][miasto].first);
             //misja_manager.genMisja(state, misja);
         }

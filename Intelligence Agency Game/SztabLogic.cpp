@@ -3,8 +3,10 @@
 #include "Stol.h"
 #include <random>
 
-#include "Assets.h"
+//#include "Assets.h"
 #include "GameState.h"
+
+import AssetsMod;
 
 sf::Vector2f SztabLogic::genRandomXY()
 {

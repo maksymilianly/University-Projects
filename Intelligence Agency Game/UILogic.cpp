@@ -1,9 +1,9 @@
 #include "UILogic.h"
 
-#include "Config.h"
+//#include "Config.h"
 #include "GameState.h"
 
-
+import ConfigMod;
 
 
 UILogic::UILogic(Config& config, GameState& state)

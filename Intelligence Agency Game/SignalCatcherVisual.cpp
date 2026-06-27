@@ -1,7 +1,9 @@
 #include "SignalCatcherVisual.h"
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
+import AssetsMod;
+import ConfigMod;
 
 
 

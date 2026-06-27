@@ -1,7 +1,9 @@
 #include "RadarVisual.h"
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
+import AssetsMod;
+import ConfigMod;
 
 
 RadarVisual::RadarVisual(Assets& assets, Config& config)

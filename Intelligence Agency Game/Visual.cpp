@@ -1,11 +1,13 @@
 #include "Visual.h"
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
 #include "GameState.h"
-
 #include <string>
 #include <algorithm>
+
+import AssetsMod;
+import ConfigMod;
 
 
 Visual::Visual(Assets& assets, Config& config, const std::string& prefix) {

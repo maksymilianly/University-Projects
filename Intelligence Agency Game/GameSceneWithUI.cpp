@@ -1,12 +1,16 @@
-#include "GameSceneWithUI.h" 
 #include <memory>
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
+
 #include "GameState.h"
 #include "UIButton.h"
 
 #include "UIEmployerWidget.h"
+#include "GameSceneWithUI.h" 
 #include "Staff.h"
+
+import AssetsMod;
+import ConfigMod;
 
 GameSceneWithUI::GameSceneWithUI(Assets& assets, Config& config, GameState& state,
     std::function<bool(Staff*)> _Filter)
@@ -23,18 +27,22 @@ GameSceneWithUI::GameSceneWithUI(Assets& assets, Config& config, GameState& stat
     loadButtons();
 }
 
-void GameSceneWithUI::loadButtons()
-{
+void GameSceneWithUI::loadButtons() {
     for (auto const& [nazwa, sprite] : assets.textures)
     {
         if (nazwa.starts_with("ui_button_"))
         {
             std::string actionName = nazwa.substr(std::string("ui_button_").length());
-            UIelements.push_back(std::make_unique<UIButton>(
+
+            auto button = std::make_unique<UIButton>(
                 sf::Sprite(sprite),
+                assets.mainFont,
                 config.spritesData.at(nazwa).position,
                 [this, actionName]() { this->actionButton(actionName); }
-            ));
+            );
+
+            button->setText(actionName);
+            UIelements.push_back(std::move(button));
         }
     }
 }

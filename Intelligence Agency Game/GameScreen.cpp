@@ -1,9 +1,13 @@
 #include "GameScreen.h"
+#include "GameOverScreen.h"
 
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
 #include "GameState.h"
+
+import AssetsMod;
+import ConfigMod;
 
 
 GameScreen::GameScreen(Assets& _assets, Config& _config, GameState& _state) : Ekran(_assets, _config, _state)

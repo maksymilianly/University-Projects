@@ -1,8 +1,11 @@
 #include "RadarManager.h"
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
 #include "GameState.h"
+
+import AssetsMod;
+import ConfigMod;
 
 
 RadarManager::RadarManager(Assets& _assets, Config& _config, GameState& _state)

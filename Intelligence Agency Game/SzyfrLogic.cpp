@@ -1,9 +1,12 @@
-#include "SzyfrLogic.h"
+
 #include <random>
 #include <iostream>
 
-#include "Config.h"
+//#include "Config.h"
 #include "GameState.h"
+#include "SzyfrLogic.h"
+
+import ConfigMod;
 
 
 SzyfrLogic::SzyfrLogic(Config& config,GameState& state)

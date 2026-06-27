@@ -1,7 +1,9 @@
 #include "SignalCatcherLogic.h"
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
+import AssetsMod;
+import ConfigMod;
 
 
 SignalCatcherLogic::SignalCatcherLogic(Assets& assets, Config& config)
@@ -9,7 +11,7 @@ SignalCatcherLogic::SignalCatcherLogic(Assets& assets, Config& config)
     auto& texCatcher = assets.textures.at("target_catcher");
     auto catcherData = config.spritesData.at("target_catcher");
 
-    catcherRadius = 1000.0f;//texCatcher.getSize().x / 2.0f * catcherData.scale.x;
+    catcherRadius = texCatcher.getSize().x / 2.0f * catcherData.scale.x;
     config.loadIn("target_catcher_speed", catcherMoveSpeed, 1.0f);
     
 

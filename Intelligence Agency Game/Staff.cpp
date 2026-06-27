@@ -118,3 +118,8 @@ std::string Grupa::zwrocDane() const {
 
     return tempText;
 }
+
+void Grupa::setSkills(int val)
+{
+    return;
+}

@@ -1,4 +1,3 @@
-#include "SztabManager.h"
 #include "GameSceneWithUI.h"
 #include "ProcesDeszyfrowania.h"
 #include "Staff.h"
@@ -7,6 +6,7 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <algorithm> 
+#include "SztabManager.h"
 
 
 SztabManager::SztabManager(Assets& _assets, Config& _config, GameState& _state)

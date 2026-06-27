@@ -1,6 +1,9 @@
 #include "Event.h"
 
-#include "Assets.h"
+//#include "Assets.h"
+
+import AssetsMod;
+
 
 Event::Event(Assets& assets)
 {

@@ -1,10 +1,12 @@
 #include "SzyfrVisual.h"
 
 #include "Visual.h"
-#include "Assets.h"
+//#include "Assets.h"
 #include "ProcesDeszyfrowania.h"
 #include "GameState.h"
 #include <format>
+
+import AssetsMod;
 
 
 SzyfrVisual::SzyfrVisual(Assets& assets, Config& config) : Visual(assets, config, "szyfry_"), timeFont(assets.mainFont) {}

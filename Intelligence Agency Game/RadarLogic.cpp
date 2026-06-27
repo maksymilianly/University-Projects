@@ -1,6 +1,6 @@
 #include "RadarLogic.h"
 
-#include "Config.h"
+//#include "Config.h" 
 #include "GameState.h"
 #include "Math.h"
 
@@ -9,6 +9,8 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+
+import ConfigMod;
 
 
 RadarLogic::RadarLogic(Config& config,GameState& state) 

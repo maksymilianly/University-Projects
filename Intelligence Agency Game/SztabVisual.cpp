@@ -1,8 +1,12 @@
 #include "SztabVisual.h"
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
 #include "GameState.h"
 #include <format>
+
+import AssetsMod;
+import ConfigMod;
+
 
 
 SztabVisual::SztabVisual(Assets& assets, Config& config)

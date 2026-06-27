@@ -7,11 +7,13 @@
 #include "UIButton.h"
 
 #include "GameState.h"
-#include "Config.h"
-#include "Assets.h"
-
+//#include "Config.h"
+//#include "Assets.h"
 #include <vector>
 #include <memory>
+
+import AssetsMod;
+import ConfigMod; 
 
 GlobalUI::GlobalUI(Assets& _assets, Config& _config, GameState& _state)
     : assets(_assets), config(_config), state(_state),moneyText(_assets.mainFont)

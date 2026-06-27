@@ -1,3 +1,5 @@
+#include <iostream>
+
 #include "Game.h"
 
 Game::Game() : 
@@ -25,6 +27,7 @@ void Game::run()
     {
         float dt = clock.restart().asSeconds();
 
+
         while (const std::optional event = window.pollEvent()) {
             if (event->is<sf::Event::Closed>()) {
                 window.close();
@@ -49,6 +52,16 @@ void Game::run()
         ekrany.update(dt);
         //ekrany.zoom(dt, window);
         //uimanager->update();
+
+        if (state.getBank() < 0 && ekrany.getCurrentState() != AppState::GameOver) {
+            std::cout << "Game Over" << std::endl;
+
+          
+            ekrany.changeState(AppState::GameOver);
+        }
+
+
+
         window.clear();
 
         ekrany.drawScenes(window);

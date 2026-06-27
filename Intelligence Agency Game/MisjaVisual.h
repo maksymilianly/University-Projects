@@ -1,8 +1,8 @@
 #pragma once
 #include "Visual.h"
 
-struct Assets;
-struct Config;
+import AssetsMod;
+import ConfigMod;
 
 class MisjaVisual : public Visual
 {

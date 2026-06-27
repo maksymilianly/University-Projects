@@ -2,9 +2,13 @@
 
 #include <cmath>
 
-#include "Assets.h"
-#include "Config.h"
+//#include "Assets.h"
+//#include "Config.h"
 #include "GameState.h"
+
+import AssetsMod;
+import ConfigMod;
+
 
 MapaVisual::MapaVisual(Assets& assets, Config& config)
     : Visual(assets, config, "map_")

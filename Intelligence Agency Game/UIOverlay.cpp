@@ -4,7 +4,7 @@
 #include "UIInfoPanel.h"
 
 
-#include "Assets.h"
+//#include "Assets.h"
 
 #include <functional>
 #include <memory>
@@ -12,6 +12,8 @@
 #include <string>
 
 #include <iostream>
+
+import AssetsMod;
 
 
 UIOverlay::UIOverlay(sf::Sprite podaneTlo, sf::Vector2f pozTla, std::string ident, int rows, int cols)
@@ -116,8 +118,6 @@ sf::Vector2f UIOverlay::getNewWidgetPosition() {
 
 void UIOverlay::addWidget(std::unique_ptr<UIWidget> widget) { 
 	sf::Vector2f nowaPozycja = getNewWidgetPosition();
-
-	std::cout << "[DEBUG] Widget nr " << Widgets.size() << " dostal pozycje X: " << nowaPozycja.x << " Y: " << nowaPozycja.y << "\n";
 
 	if (nowaPozycja.x < 0 || nowaPozycja.y < 0) {
 		return;
